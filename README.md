@@ -7,6 +7,8 @@
 | --- | --- | --- |
 | ![YouTube Playlist](https://github.com/Glavin001/Expertise-by-AI/assets/1885333/40da2497-cab6-414e-8b7c-947f5a5020e1) | ➡️ | ![Model used in Replicate](https://github.com/Glavin001/Expertise-by-AI/assets/1885333/3686f90b-0753-4a7d-b86f-30039e372bf1) |
 
+[**👉 Get Started**](./data-gen/README.md)
+
 ## Goals
 
 This project has 2 goals:
