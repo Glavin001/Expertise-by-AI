@@ -1,6 +1,8 @@
 # Expertise by AI
 > 🎯 Always available expertise powered by AI
 
+*🚧 **Warning**: Under Heavy Construction.🚧*
+
 | Input: Your Data | ➡️ | Output: Your Model |
 | --- | --- | --- |
 | ![YouTube Playlist](https://github.com/Glavin001/Expertise-by-AI/assets/1885333/40da2497-cab6-414e-8b7c-947f5a5020e1) | ➡️ | ![Model used in Replicate](https://github.com/Glavin001/Expertise-by-AI/assets/1885333/3686f90b-0753-4a7d-b86f-30039e372bf1) |
@@ -44,7 +46,7 @@ Step by step guide to generate your own AI language models from scratch & deploy
   - [ ] Runpod
   - [ ] Huggingface
 
-Let's [get started](./1-data-gen/README.md).
+Let's [get started](./data-gen/README.md).
 
 **Disclaimer**:
 These datasets (e.g. from YouTube) and models (e.g. LLaMA) are intended for non-commercial research and educational purposes only.
